@@ -1,0 +1,40 @@
+body {
+  font-family: 'Manrope', sans-serif;
+}
+.my-btn {
+  background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%) !important;
+  border-style: none !important;
+  border-radius: 10px !important;
+}
+.my-btn:hover{
+  background: linear-gradient(270deg, #9b9fc7 0%, #1300e3 100%) !important;
+}
+
+.icon {
+  width: 3rem;
+  height: 3rem;
+}
+
+.col {
+  background: linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0) 100%);
+  border-radius: 10px;
+  padding: 2rem;
+}
+.col h3{
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.tea-cup{
+  display: flex;
+}
+.bg-tea-shop{
+background: linear-gradient(180deg, #f4f4f4 0%, rgba(244, 244, 244, 0.318) 100%);
+border-radius: 10px;
+}
+.my-clients{
+  background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+border-radius: 10px;
+}
+.my-btn-1{
+ color: #FF8938;
+}
